@@ -1,6 +1,7 @@
 import { mdsvex } from 'mdsvex';
 import adapter from '@sveltejs/adapter-auto';
 import { relative, sep } from 'node:path';
+import supersub from 'remark-supersub';
 
 /** @type {import('@sveltejs/kit').Config} */
 const config = {
@@ -20,7 +21,11 @@ const config = {
 		// See https://svelte.dev/docs/kit/adapters for more information about adapters.
 		adapter: adapter()
 	},
-	preprocess: [mdsvex({ extensions: ['.svx', '.md'] })],
+	preprocess: [mdsvex(
+		{ 
+			extensions: ['.svx', '.md'],
+			remarkPlugins: [supersub],
+		})],
 	extensions: ['.svelte', '.svx', '.md']
 };
 
