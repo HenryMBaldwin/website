@@ -13,8 +13,7 @@
 
 <svelte:head><link rel="icon" href={favicon} /></svelte:head>
 
-<!-- <div class="invert w-full h-screen"> -->
-<div class="w-full h-screen grid grid-rows-[auto_1fr_auto] bg-white">
+<div class="w-full h-full min-h-screen grid grid-rows-[auto_1fr_auto] bg-white">
 	<header>
 		<nav class="py-2 px-2 sm:px-10 gap-2 sm:gap-4 flex font-medium sm:text-xl border-b-1">
 			
@@ -27,11 +26,10 @@
 		{@render children()}
 	</main>
 	<footer>
-		<div class="border-t-1 text-sm py-2 px-4 align-self-end"> 
+		<div class="border-t-1 text-sm py-2 px-4 text-end"> 
 			<p> ©2026 Henry Baldwin </p>
 		</div>
 	</footer>
 </div>
-<!-- </div> -->
 
 
