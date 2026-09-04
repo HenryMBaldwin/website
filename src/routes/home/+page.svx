@@ -1,0 +1,19 @@
+# Henry Baldwin
+
+Hi! Welcome to my site. Please, look around.
+
+---
+
+## About Me
+
+I'm a software engineer interested in systems work and social consequences.
+Currently, I'm working on [blockchains](https://seismic.systems).
+
+Beyond programming, which I spend much of my time doing, I'm interested in
+philosophy, poetry, music, and the outdoors. What is posted here will likely
+cover the gamut, and possibly more. I'm sure I'm not an authority on any
+subject, so please, take what you see here with due scepticism and disdain.
+
+As taught by a close friend and teacher of mine, I maintain that I cannot be
+held liable for anything I've said or written in the past, including the entire
+contents of this website ;).

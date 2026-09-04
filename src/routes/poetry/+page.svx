@@ -1,0 +1,6 @@
+# Poetry
+
+This page collects my poetry. I also have a page collecting my writing, but I
+felt somehow that poetry is different so I gave it it's own page.
+
+- [Bad Mood](poetry/bad_mood)
