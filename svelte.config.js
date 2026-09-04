@@ -1,5 +1,5 @@
 import { mdsvex } from 'mdsvex';
-import adapter from '@sveltejs/adapter-auto';
+import adapter from '@sveltejs/adapter-static';
 import { relative, sep } from 'node:path';
 import supersub from 'remark-supersub';
 
@@ -22,7 +22,7 @@ const config = {
 		adapter: adapter()
 	},
 	preprocess: [mdsvex(
-		{ 
+		{
 			extensions: ['.svx', '.md'],
 			remarkPlugins: [supersub],
 		})],
