@@ -2,7 +2,7 @@
 title: Motivation
 author: Henry Baldwin
 date: 04-05-2026
-updated: 04-05-2026
+updated: 09-03-2026
 ---
 
 ![NYC skyline from Hoboken on a rainy day](/images/writing/motivation/NYC_from_hoboken_04-05-2026.jpg)
@@ -11,9 +11,9 @@ updated: 04-05-2026
 >
 > I'm here just hanging around
 >
-> Got my messiah impression Yeah, I think I
+> Got my messiah impression
 >
-> got him nailed down
+> Yeah, I think I got him nailed down
 
 **_- "Can't Get it Out", Brand New_**
 
@@ -24,12 +24,13 @@ retrospect, and when I look back on the last five or six years or so, I see very
 little evidence of my own existence. In that time I've done well enough for
 myself. I graduated from college in 2023 employed as a software engineer right
 out of the gate, which wasn't a given in the early 2020s. This was mostly raw
-luck considering I only had to continue working the job I worked in college that
-I had been handed to me via a referral my junior year. I've lived 1500 miles
-away from where I grew up, having moved from Austin to NYC^1 when I was 18. I've
-made friends, adopted a cat, and lived for 3 years with a long-term partner.
+luck considering I only had to continue working the job I worked full time in
+college, which had been handed to me via a referral my junior year. I've lived
+1500 miles away from where I grew up, having moved from Austin to NYC^1 when I
+was 18. I've made friends, adopted a cat, and lived for 3 years with a long-term
+partner.
 
-These to me feel mostly circumstansial though, a consequence of being alive that
+These to me feel mostly circumstantial though, a consequence of being alive that
 took little more effort than getting up in the morning (perhaps this attitude
 explains why things did not work out with that long term partner).
 
@@ -37,16 +38,16 @@ What have I actually done in this though? Where is the evidence of my existence?
 Of passion?
 
 Sure I've built things at work and the various financial firms and startups I've
-worked at, and often been passionate about it, but ultimately that was for
-money. I've build relationships, and just barely managed to maintain a few of
-them as physical distance encroached, can I say though I've been very passionate
-about that either? I have had a strange resistance and passivity to the idea of
-taking pictures of and with the people that I love. I have been musical all my
-life (thanks Mom and Dad), but if I'm being honest at this point any skill I had
-has rusted away due to neglect. All my favorite songs I've written and all my
-favorite jam sessions are years in the past at this point. As far as I can tell,
-I've spent the last 5 years mostly consuming what others have created, and
-calcifying into the wrong kind of person.
+worked at, and often been passionate about it in the moment, but ultimately that
+was for money. I've built relationships, and just barely managed to maintain a
+few of them as physical distance encroached, can I say though I've been very
+passionate about that either? I have had a strange resistance and passivity to
+the idea of taking pictures of and with the people that I love. I have been
+musical all my life (thanks Mom and Dad), but if I'm being honest at this point
+any skill I had has rusted away due to neglect. All my favorite songs I've
+written and all my favorite jam sessions are years in the past at this point. As
+far as I can tell, I've spent the last 5 years mostly consuming what others have
+created, and calcifying into the wrong kind of person.
 
 The few things, and I mean the very few things, I've built or done in the last
 few years have not been documented.
@@ -62,27 +63,26 @@ creation in a long time.
 
 ## Vulnerability
 
-I have an intense fear sharing my written thoughts, certainly related to my very
-low tolerance to cringe. I have some amount of short fiction, poetry, and prose
-that I have written, all of which is probably bad, and all of which I would
-prefer no one ever read. Often times, I'd prefer I never have to read it again.
-I'm sure there is a name for this phenomenon, as it must be fairly common. I
-cannot allow this to be an excuse not to create, so I am choosing instead to
-publish it indiscriminately. To me this is an incredibly vulnerable thing to do,
-especially to do publicly.
+I have an intense fear sharing my written thoughts, at least partially derived
+from my low tolerance to cringe. I have some amount of short fiction, poetry,
+and prose that I have written, all of which is probably bad, and all of which I
+would prefer no one ever read. Often times, I'd prefer I never have to read it
+again. I'm sure there is a name for this phenomenon, as it must be fairly
+common. I cannot allow this to be an excuse not to create, so I am choosing
+instead to publish it indiscriminately. To me this is an incredibly vulnerable
+thing to do.
 
 Gotta do it though.
 
 ## AI
 
-One of the primary depressors in my life right now is AI. I find offloading
-critical thought in my free-time and at work has really and truly made me feel
-empty and incapable. In my current situation I'm not sure it can be turned off
-at work, and honestly I'm not sure it should be. AI is objectively a critical
-tool to build things quickly. That being said, I don't need to build things
-quickly in my free-time, I need to feel like I'm capable of building. Because of
-this, I am resolving to not use AI minimize AI usage for any and all material
-posted here.
+One of the depressors in my life right now is AI. I find offloading critical
+thought in my free-time and at work has really and truly made me feel empty and
+incapable. In my current situation I'm not sure it can be turned off at work,
+and honestly I'm not sure it should be. AI is objectively a critical tool to
+build things quickly. That being said, I don't need to build things quickly in
+my free-time, I need to feel like I'm capable of building. Because of this, I am
+resolving to minimize AI usage for any and all material posted here.
 
 Of course this isn't a strict swear-off. If I forget an vim key (nvim btw), or I
 have some simple question that I can shortcut googling, I probably will
@@ -92,4 +92,5 @@ credited.
 
 ---
 
-- ^1 I live in Hoboken, NJ, I just say NYC. I'll admit it.
+- ^1 I live in Hoboken, NJ, I just say NYC. I'm not ashamed to admit this (so
+  long as the admission is buried in the footnotes).

@@ -5,3 +5,7 @@ This page collects my writings, which I am loosely organizing into categories. I
 ## Miscellaneous
 
 - [Motivation](writing/miscellaneous/motivation)
+
+## Philosophy
+
+- [Art and Nature](writing/philosophy/art-and-nature)
