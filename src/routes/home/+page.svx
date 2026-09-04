@@ -7,7 +7,8 @@ Hi! Welcome to my site. Please, look around.
 ## About Me
 
 I'm a software engineer interested in systems work and social consequences.
-Currently, I'm working on [blockchains](https://seismic.systems).
+Currently, I'm working on
+[privacy preserving blockchains](https://seismic.systems).
 
 Beyond programming, which I spend much of my time doing, I'm interested in
 philosophy, poetry, music, and the outdoors. What is posted here will likely
